@@ -40,6 +40,15 @@ Before running the application first install the following dependencies.
 
 ## Examples
 
+How to run code using streamlit from terminal
+
+![Terminal example](./Images/terminal-wallet-example.gif)
+
+
+Example of entire program 
+
+![Program example](./Images/program-wallet-example.gif) 
+
 ---
 
 ## Contributors 
